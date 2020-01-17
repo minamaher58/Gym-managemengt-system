@@ -1,0 +1,8 @@
+c:\users\anton\onedrive\documents\visual studio 2015\Projects\GYM\GYM\bin\Debug\GYM.exe.config
+c:\users\anton\onedrive\documents\visual studio 2015\Projects\GYM\GYM\bin\Debug\GYM.exe
+c:\users\anton\onedrive\documents\visual studio 2015\Projects\GYM\GYM\bin\Debug\GYM.pdb
+c:\users\anton\onedrive\documents\visual studio 2015\Projects\GYM\GYM\obj\Debug\GYM.csprojResolveAssemblyReference.cache
+c:\users\anton\onedrive\documents\visual studio 2015\Projects\GYM\GYM\obj\Debug\GYM.exe
+c:\users\anton\onedrive\documents\visual studio 2015\Projects\GYM\GYM\obj\Debug\GYM.pdb
+C:\Users\anton\OneDrive\documents\visual studio 2015\Projects\GYM\GYM\obj\Debug\GYM.Form1.resources
+C:\Users\anton\OneDrive\documents\visual studio 2015\Projects\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.Cache
